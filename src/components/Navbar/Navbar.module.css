@@ -1,0 +1,23 @@
+.nav {
+    grid-area: n;
+    padding: 20px;
+  }
+ 
+.item a {
+    color: #282C34;
+    text-decoration: none;
+    line-height: 10px;
+    display: block;
+    padding: 10px;
+    margin: 10px;
+    text-align: left;
+}
+
+.item a.activeLink {
+  color: #0397D6;
+}
+
+.item a:hover {
+  background: #E1E4EB;
+  border-radius: 5px;
+}

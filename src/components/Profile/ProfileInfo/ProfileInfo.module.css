@@ -1,0 +1,25 @@
+.descriptionBlock {
+    padding: 10px;
+}
+.avatar {
+    max-width: 200px;
+}
+.contact {
+    padding-left: 10px;
+}
+.status {
+    position: absolute;
+    top: 28%;
+    left: 46%;
+    margin: -125px 0 0 -125px;
+    
+}
+.descriptionBlock.isOwner input {
+    position: absolute;
+    top: 50%;
+    left: 60%;
+     
+}
+.data {
+    
+}
