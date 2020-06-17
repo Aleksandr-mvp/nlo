@@ -5,19 +5,30 @@
 }
 
 .dialogsItems {
-    padding: 10px;
-    color: white;
+    padding: 20px;
+    line-height: 25px;
 }
 
-.dialogsItems.active {
-    color: #61DAFB;
+.dialog a {
+    text-decoration: none;
+    color: #282C34;
+    display: block;
+    text-align: center;
+}
+
+.dialog a.activeLink {
+    color: #0397D6;
 }
 
 .messages {
-    padding: 10px;
+    padding: 20px;
+    margin-left: 20px;
+    line-height: 25px;
 }
 
-.messages.message {
-    color: white;
-}
+.dialog a:hover {
+    background: #E1E4EB;
+    border-radius: 5px;
+  }
+
 
