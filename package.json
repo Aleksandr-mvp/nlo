@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://aleksandr-mvp.github.io/nlo",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "browserslist": "^4.12.0",
     "caniuse-lite": "^1.0.30001078",
     "classnames": "^2.2.6",
